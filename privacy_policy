@@ -1,198 +1,295 @@
-# Privacy Policy
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="color-scheme" content="light dark">
+    <title>Privacy Policy</title>
+    <style>
+        :root {
+            color-scheme: light dark;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.6;
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+            color: #000;
+            background-color: #fff;
+        }
+        
+        @media (prefers-color-scheme: dark) {
+            body {
+                color: #fff;
+                background-color: #000;
+            }
+            
+            a {
+                color: #0A84FF;
+            }
+            
+            code {
+                background-color: #1C1C1E;
+                border-color: #3A3A3C;
+            }
+        }
+        
+        h1 {
+            font-size: 32px;
+            font-weight: 700;
+            margin-bottom: 8px;
+            margin-top: 20px;
+        }
+        
+        h2 {
+            font-size: 24px;
+            font-weight: 600;
+            margin-top: 32px;
+            margin-bottom: 12px;
+        }
+        
+        h3 {
+            font-size: 20px;
+            font-weight: 600;
+            margin-top: 24px;
+            margin-bottom: 8px;
+        }
+        
+        p {
+            margin: 12px 0;
+        }
+        
+        ul, ol {
+            margin: 12px 0;
+            padding-left: 24px;
+        }
+        
+        li {
+            margin: 8px 0;
+        }
+        
+        a {
+            color: #007AFF;
+            text-decoration: none;
+        }
+        
+        a:hover {
+            text-decoration: underline;
+        }
+        
+        strong {
+            font-weight: 600;
+        }
+        
+        em {
+            font-style: italic;
+            opacity: 0.8;
+        }
+        
+        code {
+            font-family: 'SF Mono', Monaco, Consolas, monospace;
+            font-size: 14px;
+            padding: 2px 6px;
+            background-color: #F2F2F7;
+            border: 1px solid #E5E5EA;
+            border-radius: 4px;
+        }
+        
+        hr {
+            margin: 32px 0;
+            border: none;
+            border-top: 1px solid #E5E5EA;
+        }
+        
+        @media (prefers-color-scheme: dark) {
+            hr {
+                border-top-color: #3A3A3C;
+            }
+        }
+        
+        .last-updated {
+            font-size: 14px;
+            opacity: 0.6;
+            margin-bottom: 24px;
+        }
+        
+        .section {
+            margin-bottom: 24px;
+        }
+        
+        @media (max-width: 600px) {
+            body {
+                padding: 16px;
+            }
+            
+            h1 {
+                font-size: 28px;
+            }
+            
+            h2 {
+                font-size: 22px;
+            }
+            
+            h3 {
+                font-size: 18px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    <p class="last-updated"><em>Last Updated: September 14, 2026</em></p>
 
-**Last Updated: September 15, 2026**
+    <div class="section">
+        <h2>Introduction</h2>
+        <p>This Privacy Policy describes how your information is collected, used, and shared when you use our habit tracking application ("the App"). We are committed to protecting your privacy and ensuring you understand how we handle your data.</p>
+    </div>
 
-## Introduction
+    <div class="section">
+        <h2>Information We Collect</h2>
+        
+        <h3>Information You Provide</h3>
+        <ul>
+            <li><strong>Account Information</strong>: When you create an account, we collect:
+                <ul>
+                    <li>Email address</li>
+                    <li>Password (stored securely, hashed and encrypted)</li>
+                </ul>
+            </li>
+            <li><strong>Sign in with Apple</strong>: When you choose to authenticate with Apple:
+                <ul>
+                    <li>Apple User ID</li>
+                    <li>Email address (if you choose to share it)</li>
+                    <li>Name (if you choose to share it)</li>
+                </ul>
+            </li>
+            <li><strong>Habit Data</strong>: Information you create within the App:
+                <ul>
+                    <li>Habit names and descriptions</li>
+                    <li>Habit completion logs and dates</li>
+                    <li>Custom habit schedules and reminder times</li>
+                </ul>
+            </li>
+        </ul>
 
-This Privacy Policy describes how your information is collected, used, and shared when you use our Habit Tracker Ös application ("the App"). We are committed to protecting your privacy and ensuring you understand how we handle your data.
+        <h3>Automatically Collected Information</h3>
+        <ul>
+            <li><strong>Device Information</strong>: We may collect information about your iOS device, including device model, iOS version, app version, and device identifiers</li>
+            <li><strong>Usage Data</strong>: Information about how you interact with the App</li>
+        </ul>
 
-## Information We Collect
+        <h3>Subscription and Payment Information</h3>
+        <p><strong>Note:</strong> We do not collect or store your credit card or payment information. All payments are processed securely by Apple.</p>
+    </div>
 
-### Information You Provide
+    <div class="section">
+        <h2>How We Use Your Information</h2>
+        <p>We use the collected information for:</p>
+        <ol>
+            <li><strong>Providing Core Services</strong>: Account creation, storing habit data, sending notifications</li>
+            <li><strong>Subscription Management</strong>: Managing Pro features and in-app purchases</li>
+            <li><strong>App Improvement</strong>: Fixing bugs and improving performance</li>
+            <li><strong>Communication</strong>: Sending important updates and responding to support requests</li>
+        </ol>
+    </div>
 
-- **Account Information**: When you create an account, we collect:
-  - Email address
-  - Password (stored securely, hashed and encrypted)
-  
-- **Sign in with Apple**: When you choose to authenticate with Apple:
-  - Apple User ID
-  - Email address (if you choose to share it)
-  - Name (if you choose to share it)
+    <div class="section">
+        <h2>Data Storage and Security</h2>
+        
+        <h3>Local Storage</h3>
+        <ul>
+            <li>Your habit data is primarily stored <strong>locally on your device</strong></li>
+            <li>We do not transmit your habit completion data to external servers</li>
+        </ul>
 
-- **Habit Data**: Information you create within the App:
-  - Habit names and descriptions
-  - Habit completion logs and dates
-  - Custom habit schedules and reminder times
+        <h3>Security Measures</h3>
+        <ul>
+            <li>Passwords are hashed and encrypted</li>
+            <li>All API communications use HTTPS encryption</li>
+            <li>Device data is stored in iOS's secure sandbox environment</li>
+        </ul>
+    </div>
 
-### Automatically Collected Information
+    <div class="section">
+        <h2>Third-Party Services</h2>
+        <p>We work with trusted third-party service providers:</p>
+        <ul>
+            <li><strong>RevenueCat</strong>: Subscription management - <a href="https://www.revenuecat.com/privacy">Privacy Policy</a></li>
+            <li><strong>Apple Services</strong>: Sign in with Apple, App Store, Push Notifications</li>
+        </ul>
+        <p><strong>We do not sell your personal information to third parties.</strong></p>
+    </div>
 
-- **Device Information**: We may collect information about your iOS device, including:
-  - Device model and iOS version
-  - App version
-  - Device identifiers (for crash reporting and analytics)
+    <div class="section">
+        <h2>Your Rights and Choices</h2>
+        <ul>
+            <li><strong>Access and Portability</strong>: View and export your data</li>
+            <li><strong>Modification</strong>: Edit or update your information anytime</li>
+            <li><strong>Deletion</strong>: Delete your account through Settings → Account → Delete Account</li>
+            <li><strong>Notifications</strong>: Manage in iOS Settings</li>
+            <li><strong>Subscription Management</strong>: Manage through iOS Settings</li>
+        </ul>
+    </div>
 
-- **Usage Data**: Information about how you interact with the App:
-  - Features used
-  - App launch times
-  - Error logs and crash reports
+    <div class="section">
+        <h2>Data Retention</h2>
+        <ul>
+            <li><strong>Active Accounts</strong>: Data retained while your account is active</li>
+            <li><strong>Deleted Accounts</strong>: All data permanently deleted within 30 days</li>
+            <li><strong>Inactive Accounts</strong>: Accounts inactive for 3+ years may be deleted with notice</li>
+        </ul>
+    </div>
 
-### Subscription and Payment Information
+    <div class="section">
+        <h2>Children's Privacy</h2>
+        <p>Our App is not intended for children under 13. We do not knowingly collect personal information from children under 13.</p>
+    </div>
 
-- **Purchase Data**: Managed through Apple's App Store and RevenueCat:
-  - Subscription status (Pro/Free)
-  - Product identifiers
-  - Purchase and expiry dates
-  - Trial period information
-  
-**Note**: We do not collect or store your credit card or payment information. All payments are processed securely by Apple.
+    <div class="section">
+        <h2>California Privacy Rights (CCPA)</h2>
+        <p>California residents have additional rights including:</p>
+        <ul>
+            <li>Right to know what personal data is collected</li>
+            <li>Right to deletion of personal data</li>
+            <li>Right to opt-out (we do not sell data)</li>
+            <li>Right to non-discrimination</li>
+        </ul>
+    </div>
 
-## How We Use Your Information
+    <div class="section">
+        <h2>European Privacy Rights (GDPR)</h2>
+        <p>EEA residents have rights under GDPR including:</p>
+        <ul>
+            <li>Right to access your personal data</li>
+            <li>Right to rectification</li>
+            <li>Right to erasure ("right to be forgotten")</li>
+            <li>Right to data portability</li>
+            <li>Right to object to processing</li>
+        </ul>
+    </div>
 
-We use the collected information for:
+    <div class="section">
+        <h2>Changes to This Policy</h2>
+        <p>We may update this Privacy Policy from time to time. Changes will be posted with an updated "Last Updated" date. Significant changes will be communicated via in-app notification or email.</p>
+    </div>
 
-1. **Providing Core Services**:
-   - Account creation and authentication
-   - Storing and syncing your habit data
-   - Sending scheduled notifications and reminders
+    <div class="section">
+        <h2>Contact Us</h2>
+        <p>If you have questions or requests regarding this Privacy Policy:</p>
+        <p><strong>Email:</strong> <a href="mailto:your-email@domain.com">your-email@domain.com</a><br>
+        <strong>Website:</strong> <a href="https://your-website.com">your-website.com</a></p>
+    </div>
 
-2. **Subscription Management**:
-   - Managing Pro features access
-   - Processing in-app purchases
-   - Handling trial periods and subscriptions
-
-3. **App Improvement**:
-   - Fixing bugs and crashes
-   - Improving app performance
-   - Understanding user behavior to enhance features
-
-4. **Communication**:
-   - Sending important app updates
-   - Responding to support requests
-   - Notifying you about your subscription status
-
-## Data Storage and Security
-
-### Local Storage
-
-- Your habit data is primarily stored **locally on your device** using iOS UserDefaults
-- Data is associated with your email address for multi-device support
-- We do not transmit your habit completion data to external servers
-
-### Cloud Storage
-
-- If you use Sign in with Apple, authentication is handled by Apple's secure infrastructure
-- Subscription data is managed through RevenueCat and Apple's servers
-
-### Security Measures
-
-We implement industry-standard security measures:
-- Passwords are hashed and encrypted
-- All API communications use HTTPS encryption
-- Device data is stored in iOS's secure sandbox environment
-- We follow Apple's security best practices
-
-## Data Sharing and Third Parties
-
-We work with trusted third-party service providers:
-
-### RevenueCat
-- **Purpose**: Subscription and in-app purchase management
-- **Data Shared**: User ID, subscription status, purchase information
-- **Privacy Policy**: [https://www.revenuecat.com/privacy](https://www.revenuecat.com/privacy)
-
-### Apple Services
-- **Sign in with Apple**: Authentication service
-- **App Store**: Payment processing
-- **Push Notifications**: Delivery of habit reminders
-
-**We do not sell your personal information to third parties.**
-
-## Your Rights and Choices
-
-You have the following rights regarding your data:
-
-### Access and Portability
-- View all your habit data within the App
-- Export your data by contacting us
-
-### Modification
-- Edit or update your habits and account information at any time
-
-### Deletion
-- Delete individual habits or logs
-- Delete your entire account through Settings > Account > Delete Account
-- Request complete data deletion by contacting us
-
-### Notifications
-- Enable or disable notifications in iOS Settings
-- Customize notification times within the App
-
-### Subscription Management
-- Manage subscriptions through iOS Settings > [Your Name] > Subscriptions
-- Cancel at any time without penalty
-
-## Data Retention
-
-- **Active Accounts**: Data retained while your account is active
-- **Deleted Accounts**: All data permanently deleted within 30 days
-- **Inactive Accounts**: Accounts inactive for 3+ years may be deleted with prior notice
-- **Subscription Data**: Retained as required by Apple and tax regulations
-
-## Children's Privacy
-
-Our App is not intended for children under 13. We do not knowingly collect personal information from children under 13. If you believe we have collected such information, please contact us immediately.
-
-## International Data Transfers
-
-Your information may be transferred to and processed in countries other than your own. We ensure appropriate safeguards are in place to protect your data in accordance with this Privacy Policy.
-
-## California Privacy Rights (CCPA)
-
-If you are a California resident, you have additional rights:
-- Right to know what personal data is collected
-- Right to know if personal data is sold or disclosed
-- Right to opt-out of the sale of personal data (we do not sell data)
-- Right to deletion of personal data
-- Right to non-discrimination for exercising your rights
-
-## European Privacy Rights (GDPR)
-
-If you are in the European Economic Area, you have rights under GDPR:
-- Right to access your personal data
-- Right to rectification of inaccurate data
-- Right to erasure ("right to be forgotten")
-- Right to restrict processing
-- Right to data portability
-- Right to object to processing
-- Right to withdraw consent
-
-## Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time. Changes will be posted in the App with an updated "Last Updated" date. Significant changes will be communicated via:
-- In-app notification
-- Email (if you've provided one)
-
-Continued use of the App after changes constitutes acceptance of the updated policy.
-
-## Contact Us
-
-If you have questions, concerns, or requests regarding this Privacy Policy or your data:
-
-**Email**: ahmed.mongusch@gmail.com
-
-For data deletion requests, please include:
-- Your registered email address
-- Brief description of your request
-- Subject line: "Data Deletion Request"
-
-## Compliance
-
-This Privacy Policy complies with:
-- Apple App Store Review Guidelines
-- California Consumer Privacy Act (CCPA)
-- General Data Protection Regulation (GDPR)
-- Children's Online Privacy Protection Act (COPPA)
-
----
-
-By using the App, you acknowledge that you have read and understood this Privacy Policy.
+    <hr>
+    <p><em>By using the App, you acknowledge that you have read and understood this Privacy Policy.</em></p>
+</body>
+</html>
