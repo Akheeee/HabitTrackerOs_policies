@@ -1,0 +1,198 @@
+# Privacy Policy
+
+**Last Updated: September 15, 2026**
+
+## Introduction
+
+This Privacy Policy describes how your information is collected, used, and shared when you use our Habit Tracker Ös application ("the App"). We are committed to protecting your privacy and ensuring you understand how we handle your data.
+
+## Information We Collect
+
+### Information You Provide
+
+- **Account Information**: When you create an account, we collect:
+  - Email address
+  - Password (stored securely, hashed and encrypted)
+  
+- **Sign in with Apple**: When you choose to authenticate with Apple:
+  - Apple User ID
+  - Email address (if you choose to share it)
+  - Name (if you choose to share it)
+
+- **Habit Data**: Information you create within the App:
+  - Habit names and descriptions
+  - Habit completion logs and dates
+  - Custom habit schedules and reminder times
+
+### Automatically Collected Information
+
+- **Device Information**: We may collect information about your iOS device, including:
+  - Device model and iOS version
+  - App version
+  - Device identifiers (for crash reporting and analytics)
+
+- **Usage Data**: Information about how you interact with the App:
+  - Features used
+  - App launch times
+  - Error logs and crash reports
+
+### Subscription and Payment Information
+
+- **Purchase Data**: Managed through Apple's App Store and RevenueCat:
+  - Subscription status (Pro/Free)
+  - Product identifiers
+  - Purchase and expiry dates
+  - Trial period information
+  
+**Note**: We do not collect or store your credit card or payment information. All payments are processed securely by Apple.
+
+## How We Use Your Information
+
+We use the collected information for:
+
+1. **Providing Core Services**:
+   - Account creation and authentication
+   - Storing and syncing your habit data
+   - Sending scheduled notifications and reminders
+
+2. **Subscription Management**:
+   - Managing Pro features access
+   - Processing in-app purchases
+   - Handling trial periods and subscriptions
+
+3. **App Improvement**:
+   - Fixing bugs and crashes
+   - Improving app performance
+   - Understanding user behavior to enhance features
+
+4. **Communication**:
+   - Sending important app updates
+   - Responding to support requests
+   - Notifying you about your subscription status
+
+## Data Storage and Security
+
+### Local Storage
+
+- Your habit data is primarily stored **locally on your device** using iOS UserDefaults
+- Data is associated with your email address for multi-device support
+- We do not transmit your habit completion data to external servers
+
+### Cloud Storage
+
+- If you use Sign in with Apple, authentication is handled by Apple's secure infrastructure
+- Subscription data is managed through RevenueCat and Apple's servers
+
+### Security Measures
+
+We implement industry-standard security measures:
+- Passwords are hashed and encrypted
+- All API communications use HTTPS encryption
+- Device data is stored in iOS's secure sandbox environment
+- We follow Apple's security best practices
+
+## Data Sharing and Third Parties
+
+We work with trusted third-party service providers:
+
+### RevenueCat
+- **Purpose**: Subscription and in-app purchase management
+- **Data Shared**: User ID, subscription status, purchase information
+- **Privacy Policy**: [https://www.revenuecat.com/privacy](https://www.revenuecat.com/privacy)
+
+### Apple Services
+- **Sign in with Apple**: Authentication service
+- **App Store**: Payment processing
+- **Push Notifications**: Delivery of habit reminders
+
+**We do not sell your personal information to third parties.**
+
+## Your Rights and Choices
+
+You have the following rights regarding your data:
+
+### Access and Portability
+- View all your habit data within the App
+- Export your data by contacting us
+
+### Modification
+- Edit or update your habits and account information at any time
+
+### Deletion
+- Delete individual habits or logs
+- Delete your entire account through Settings > Account > Delete Account
+- Request complete data deletion by contacting us
+
+### Notifications
+- Enable or disable notifications in iOS Settings
+- Customize notification times within the App
+
+### Subscription Management
+- Manage subscriptions through iOS Settings > [Your Name] > Subscriptions
+- Cancel at any time without penalty
+
+## Data Retention
+
+- **Active Accounts**: Data retained while your account is active
+- **Deleted Accounts**: All data permanently deleted within 30 days
+- **Inactive Accounts**: Accounts inactive for 3+ years may be deleted with prior notice
+- **Subscription Data**: Retained as required by Apple and tax regulations
+
+## Children's Privacy
+
+Our App is not intended for children under 13. We do not knowingly collect personal information from children under 13. If you believe we have collected such information, please contact us immediately.
+
+## International Data Transfers
+
+Your information may be transferred to and processed in countries other than your own. We ensure appropriate safeguards are in place to protect your data in accordance with this Privacy Policy.
+
+## California Privacy Rights (CCPA)
+
+If you are a California resident, you have additional rights:
+- Right to know what personal data is collected
+- Right to know if personal data is sold or disclosed
+- Right to opt-out of the sale of personal data (we do not sell data)
+- Right to deletion of personal data
+- Right to non-discrimination for exercising your rights
+
+## European Privacy Rights (GDPR)
+
+If you are in the European Economic Area, you have rights under GDPR:
+- Right to access your personal data
+- Right to rectification of inaccurate data
+- Right to erasure ("right to be forgotten")
+- Right to restrict processing
+- Right to data portability
+- Right to object to processing
+- Right to withdraw consent
+
+## Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Changes will be posted in the App with an updated "Last Updated" date. Significant changes will be communicated via:
+- In-app notification
+- Email (if you've provided one)
+
+Continued use of the App after changes constitutes acceptance of the updated policy.
+
+## Contact Us
+
+If you have questions, concerns, or requests regarding this Privacy Policy or your data:
+
+**Email**: ahmed.mongusch@gmail.com
+
+For data deletion requests, please include:
+- Your registered email address
+- Brief description of your request
+- Subject line: "Data Deletion Request"
+
+## Compliance
+
+This Privacy Policy complies with:
+- Apple App Store Review Guidelines
+- California Consumer Privacy Act (CCPA)
+- General Data Protection Regulation (GDPR)
+- Children's Online Privacy Protection Act (COPPA)
+
+---
+
+By using the App, you acknowledge that you have read and understood this Privacy Policy.
